@@ -1,0 +1,11 @@
+{
+  "base_url": "/binder/jupyter/user/thehornydaddy-c-_python_tsa2020-0426ykgy/",
+  "hostname": "0.0.0.0",
+  "notebook_dir": "/home/jovyan",
+  "password": false,
+  "pid": 1,
+  "port": 8888,
+  "secure": false,
+  "token": "c8gloQ0cRLK74FI1RJ7YPw",
+  "url": "http://0.0.0.0:8888/binder/jupyter/user/thehornydaddy-c-_python_tsa2020-0426ykgy/"
+}
